@@ -2,9 +2,6 @@
 
 A simple desktop app to **Create, Read, Update, Delete (CRUD)** student records using **Python (Tkinter)** and **MongoDB**.
 
-##  Demo Video
-Watch the demo: [VIDEO LINK HERE — paste your Google Drive/YouTube link]
-
 ## Features
 - Add student (name, email, age)
 - Update selected student
